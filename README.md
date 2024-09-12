@@ -2,4 +2,5 @@
 Latihan Git Dicoding
 I want to eat spaghetti
 
-kwkwkw
+Haliiii
+
