@@ -1,2 +1,2 @@
-# latihan-branch
+# Latihan Branch YgY
 Latihan Git Dicoding
