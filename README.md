@@ -2,5 +2,4 @@
 Latihan Git Dicoding
 I want to eat spaghetti
 
-Haliiii
-uchiha aaa
+Haliiii uchiha aaa
